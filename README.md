@@ -1,4 +1,4 @@
-![Email-Based-Keylogger Banner](banner.png)
+![Email-Based-Keylogger Banner](banner2.png)
 
 # Email-Based Keylogger
 
