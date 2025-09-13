@@ -1,5 +1,3 @@
-![Email-Based-Keylogger Banner](banner.png)
-
 # Email-Based Keylogger
 
 Hi! I'm Sattwik Sarkar, and this is **Email-Based Keylogger**—a Python project demonstrating simple keylogging techniques with email-based reporting. This project is strictly for educational and demonstration purposes and should never be used with malicious intent.
